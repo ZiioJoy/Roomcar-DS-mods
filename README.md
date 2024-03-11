@@ -1,5 +1,2 @@
-# Roomcar-DS-mods
 
-Roomcar's mods of [Don't Starve]() &amp; [Don't Starve Together]().
-
-
+Moved to https://github.com/ZiioJoy/Roomcar-DS-mods
